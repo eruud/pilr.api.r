@@ -12,3 +12,4 @@ Depends:
 Imports:
 License: # getOptions('devtools.desc.license')
 LazyData: true
+RoxygenNote: 6.1.1
